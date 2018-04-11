@@ -1,0 +1,8 @@
+﻿function() {
+    var values = {
+        accountName: this.Name,
+        companyName: this.CompanyName,
+        accountValue: this.Value
+    };
+    emit(this._id, values);
+};

@@ -1,0 +1,22 @@
+﻿{
+    aggregate: "results",
+    pipeline: [{
+            $match: {}
+        },
+        {
+            $project: {
+                AccountName: {
+                    $concat: ["$AccountName", " - ", "Clonned"]
+                },
+                Value: 1,
+                GroupId: 1,
+                GroupName: 1,
+                CompanyName: 1,
+                _id: 1
+            }
+        },
+        {
+            $out: "resultclones"
+        },
+    ]
+}

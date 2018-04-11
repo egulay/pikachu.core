@@ -1,0 +1,41 @@
+C:\Users\egulay\Desktop\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\HelpdeskTest.Sql.deps.json
+C:\Users\egulay\Desktop\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\HelpdeskTest.Sql.runtimeconfig.json
+C:\Users\egulay\Desktop\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\HelpdeskTest.Sql.runtimeconfig.dev.json
+C:\Users\egulay\Desktop\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\HelpdeskTest.Sql.dll
+C:\Users\egulay\Desktop\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\HelpdeskTest.Sql.pdb
+C:\Users\egulay\Desktop\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\Helpdesk.Data.dll
+C:\Users\egulay\Desktop\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\Pikachu.Core.Repository.dll
+C:\Users\egulay\Desktop\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\Helpdesk.Data.pdb
+C:\Users\egulay\Desktop\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\Pikachu.Core.Repository.pdb
+C:\Users\egulay\Desktop\Pikachu.Core\HelpdeskTest.Sql\obj\Debug\netcoreapp1.1\HelpdeskTest.Sql.csprojResolveAssemblyReference.cache
+C:\Users\egulay\Desktop\Pikachu.Core\HelpdeskTest.Sql\obj\Debug\netcoreapp1.1\HelpdeskTest.Sql.AssemblyInfo.cs
+C:\Users\egulay\Desktop\Pikachu.Core\HelpdeskTest.Sql\obj\Debug\netcoreapp1.1\HelpdeskTest.Sql.dll
+C:\Users\egulay\Desktop\Pikachu.Core\HelpdeskTest.Sql\obj\Debug\netcoreapp1.1\HelpdeskTest.Sql.pdb
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\HelpdeskTest.Sql.deps.json
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\HelpdeskTest.Sql.runtimeconfig.json
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\HelpdeskTest.Sql.runtimeconfig.dev.json
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\HelpdeskTest.Sql.dll
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\HelpdeskTest.Sql.pdb
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\Helpdesk.Data.dll
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\Pikachu.Core.Repository.dll
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\Helpdesk.Data.pdb
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\Pikachu.Core.Repository.pdb
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\HelpdeskTest.Sql\obj\Debug\netcoreapp1.1\HelpdeskTest.Sql.csprojResolveAssemblyReference.cache
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\HelpdeskTest.Sql\obj\Debug\netcoreapp1.1\HelpdeskTest.Sql.AssemblyInfo.cs
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\HelpdeskTest.Sql\obj\Debug\netcoreapp1.1\HelpdeskTest.Sql.dll
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\HelpdeskTest.Sql\obj\Debug\netcoreapp1.1\HelpdeskTest.Sql.pdb
+C:\Users\emreg\Documents\Projects\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\HelpdeskTest.Sql.deps.json
+C:\Users\emreg\Documents\Projects\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\HelpdeskTest.Sql.runtimeconfig.json
+C:\Users\emreg\Documents\Projects\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\HelpdeskTest.Sql.runtimeconfig.dev.json
+C:\Users\emreg\Documents\Projects\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\HelpdeskTest.Sql.dll
+C:\Users\emreg\Documents\Projects\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\HelpdeskTest.Sql.pdb
+C:\Users\emreg\Documents\Projects\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\Helpdesk.Data.dll
+C:\Users\emreg\Documents\Projects\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\Pikachu.Core.Repository.dll
+C:\Users\emreg\Documents\Projects\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\Helpdesk.Data.pdb
+C:\Users\emreg\Documents\Projects\Pikachu.Core\HelpdeskTest.Sql\bin\Debug\netcoreapp1.1\Pikachu.Core.Repository.pdb
+C:\Users\emreg\Documents\Projects\Pikachu.Core\HelpdeskTest.Sql\obj\Debug\netcoreapp1.1\HelpdeskTest.Sql.csprojResolveAssemblyReference.cache
+C:\Users\emreg\Documents\Projects\Pikachu.Core\HelpdeskTest.Sql\obj\Debug\netcoreapp1.1\HelpdeskTest.Sql.AssemblyInfo.cs
+C:\Users\emreg\Documents\Projects\Pikachu.Core\HelpdeskTest.Sql\obj\Debug\netcoreapp1.1\HelpdeskTest.Sql.dll
+C:\Users\emreg\Documents\Projects\Pikachu.Core\HelpdeskTest.Sql\obj\Debug\netcoreapp1.1\HelpdeskTest.Sql.pdb
+C:\Users\emreg\Documents\Projects\Pikachu.Core\HelpdeskTest.Sql\obj\Debug\netcoreapp1.1\HelpdeskTest.Sql.csproj.CoreCompileInputs.cache
+C:\Users\emreg\Documents\Projects\Pikachu.Core\HelpdeskTest.Sql\obj\Debug\netcoreapp1.1\HelpdeskTest.Sql.AssemblyInfoInputs.cache

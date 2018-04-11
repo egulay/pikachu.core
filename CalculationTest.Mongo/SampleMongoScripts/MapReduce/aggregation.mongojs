@@ -1,0 +1,19 @@
+﻿{
+    aggregate: "[[TargetCollection]]",
+    pipeline: [{
+        $unwind: '$value'
+    }, {
+        $match: {
+            "value.companyName": {
+                $eq: "[[CompanyName]]"
+            }
+        }
+    }, {
+        $group: {
+            _id: "$value.accountName",
+            grandTotal: {
+                $sum: "$value.total"
+            }
+        }
+    }]
+}

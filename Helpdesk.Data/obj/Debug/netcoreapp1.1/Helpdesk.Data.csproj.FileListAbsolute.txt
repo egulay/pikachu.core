@@ -1,0 +1,29 @@
+C:\Users\egulay\Desktop\Pikachu.Core\Helpdesk.Data\bin\Debug\netcoreapp1.1\Helpdesk.Data.deps.json
+C:\Users\egulay\Desktop\Pikachu.Core\Helpdesk.Data\bin\Debug\netcoreapp1.1\Helpdesk.Data.dll
+C:\Users\egulay\Desktop\Pikachu.Core\Helpdesk.Data\bin\Debug\netcoreapp1.1\Helpdesk.Data.pdb
+C:\Users\egulay\Desktop\Pikachu.Core\Helpdesk.Data\bin\Debug\netcoreapp1.1\Pikachu.Core.Repository.dll
+C:\Users\egulay\Desktop\Pikachu.Core\Helpdesk.Data\bin\Debug\netcoreapp1.1\Pikachu.Core.Repository.pdb
+C:\Users\egulay\Desktop\Pikachu.Core\Helpdesk.Data\obj\Debug\netcoreapp1.1\Helpdesk.Data.csprojResolveAssemblyReference.cache
+C:\Users\egulay\Desktop\Pikachu.Core\Helpdesk.Data\obj\Debug\netcoreapp1.1\Helpdesk.Data.AssemblyInfo.cs
+C:\Users\egulay\Desktop\Pikachu.Core\Helpdesk.Data\obj\Debug\netcoreapp1.1\Helpdesk.Data.dll
+C:\Users\egulay\Desktop\Pikachu.Core\Helpdesk.Data\obj\Debug\netcoreapp1.1\Helpdesk.Data.pdb
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\Helpdesk.Data\bin\Debug\netcoreapp1.1\Helpdesk.Data.deps.json
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\Helpdesk.Data\bin\Debug\netcoreapp1.1\Helpdesk.Data.dll
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\Helpdesk.Data\bin\Debug\netcoreapp1.1\Helpdesk.Data.pdb
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\Helpdesk.Data\bin\Debug\netcoreapp1.1\Pikachu.Core.Repository.dll
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\Helpdesk.Data\bin\Debug\netcoreapp1.1\Pikachu.Core.Repository.pdb
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\Helpdesk.Data\obj\Debug\netcoreapp1.1\Helpdesk.Data.csprojResolveAssemblyReference.cache
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\Helpdesk.Data\obj\Debug\netcoreapp1.1\Helpdesk.Data.AssemblyInfo.cs
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\Helpdesk.Data\obj\Debug\netcoreapp1.1\Helpdesk.Data.dll
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\Helpdesk.Data\obj\Debug\netcoreapp1.1\Helpdesk.Data.pdb
+C:\Users\emreg\Documents\Projects\Pikachu.Core\Helpdesk.Data\bin\Debug\netcoreapp1.1\Helpdesk.Data.deps.json
+C:\Users\emreg\Documents\Projects\Pikachu.Core\Helpdesk.Data\bin\Debug\netcoreapp1.1\Helpdesk.Data.dll
+C:\Users\emreg\Documents\Projects\Pikachu.Core\Helpdesk.Data\bin\Debug\netcoreapp1.1\Helpdesk.Data.pdb
+C:\Users\emreg\Documents\Projects\Pikachu.Core\Helpdesk.Data\bin\Debug\netcoreapp1.1\Pikachu.Core.Repository.dll
+C:\Users\emreg\Documents\Projects\Pikachu.Core\Helpdesk.Data\bin\Debug\netcoreapp1.1\Pikachu.Core.Repository.pdb
+C:\Users\emreg\Documents\Projects\Pikachu.Core\Helpdesk.Data\obj\Debug\netcoreapp1.1\Helpdesk.Data.csprojResolveAssemblyReference.cache
+C:\Users\emreg\Documents\Projects\Pikachu.Core\Helpdesk.Data\obj\Debug\netcoreapp1.1\Helpdesk.Data.AssemblyInfo.cs
+C:\Users\emreg\Documents\Projects\Pikachu.Core\Helpdesk.Data\obj\Debug\netcoreapp1.1\Helpdesk.Data.dll
+C:\Users\emreg\Documents\Projects\Pikachu.Core\Helpdesk.Data\obj\Debug\netcoreapp1.1\Helpdesk.Data.pdb
+C:\Users\emreg\Documents\Projects\Pikachu.Core\Helpdesk.Data\obj\Debug\netcoreapp1.1\Helpdesk.Data.csproj.CoreCompileInputs.cache
+C:\Users\emreg\Documents\Projects\Pikachu.Core\Helpdesk.Data\obj\Debug\netcoreapp1.1\Helpdesk.Data.AssemblyInfoInputs.cache

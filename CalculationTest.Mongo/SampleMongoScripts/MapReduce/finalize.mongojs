@@ -1,0 +1,4 @@
+﻿function(k, result) {
+    result.total = result.accountValue * result.factor;
+    return result;
+};

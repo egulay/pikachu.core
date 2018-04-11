@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\emreg\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Pikachu.Core.1101625915.00" t="ExcludeRecursive" />
+    <e p="C:\Users\emreg\Documents\Projects\Pikachu.Core" t="IncludeFlat">
+      <e p="CalculationTest.Mongo" t="IncludeRecursive">
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CalculationTest.Mongo.csproj" t="IncludeRecursive" />
+        <e p="CalculatorService.cs" t="Include" />
+        <e p="CalculatorServiceFactory.cs" t="Include" />
+        <e p="ClusteredCalculatorService.cs" t="Include" />
+        <e p="CurrencyRatesConversionService.cs" t="Include" />
+        <e p="DockerBashScripts" t="Include">
+          <e p="CreateMongoDBCluster.sh" t="Include" />
+          <e p="CreateMongoDBForRateCalculation.sh" t="Include" />
+          <e p="CreateMongoDBShardedCluster.sh" t="Include" />
+          <e p="CreateSingleMongoDB.sh" t="Include" />
+        </e>
+        <e p="Helpers.cs" t="Include" />
+        <e p="ICalculatorService.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="Account.cs" t="Include" />
+          <e p="AccountFactor.cs" t="Include" />
+          <e p="RateCalculation" t="Include">
+            <e p="Account.cs" t="Include" />
+            <e p="Rate.cs" t="Include" />
+            <e p="Result.cs" t="Include" />
+            <e p="ResultClone.cs" t="Include" />
+          </e>
+          <e p="Results.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp1.1" t="Include">
+              <e p="CalculationTest.Mongo.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="SampleMongoScripts" t="Include">
+          <e p="AggregateMongoAccounts.mongojs" t="Include" />
+          <e p="CloneResultsCollection.mongojs" t="Include" />
+          <e p="MapReduce" t="Include">
+            <e p="accountFactorMap.mongojs" t="Include" />
+            <e p="accountMap.mongojs" t="Include" />
+            <e p="aggregation.mongojs" t="Include" />
+            <e p="finalize.mongojs" t="Include" />
+            <e p="mapReduceShellScript.mongojs" t="Include" />
+            <e p="reduce.mongojs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Helpdesk.Data" t="IncludeRecursive">
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CreateDb.sql" t="Include" />
+        <e p="Extensions" t="Include">
+          <e p="UserExtension.cs" t="Include" />
+        </e>
+        <e p="Helpdesk.Data.csproj" t="IncludeRecursive" />
+        <e p="HelpDeskContext.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="Request.cs" t="Include" />
+          <e p="RequestType.cs" t="Include" />
+          <e p="Response.cs" t="Include" />
+          <e p="User.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp1.1" t="Include">
+              <e p="Helpdesk.Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HelpdeskTest.Sql" t="IncludeRecursive">
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="HelpdeskService.cs" t="Include" />
+        <e p="HelpdeskTest.Sql.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp1.1" t="Include">
+              <e p="HelpdeskTest.Sql.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Pikachu.Core.Repository" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Helpers" t="Include">
+          <e p="ConsoleTable.cs" t="Include" />
+          <e p="CryptoHelper.cs" t="Include" />
+          <e p="ExceptionHelper.cs" t="Include" />
+          <e p="GenericHelpers.cs" t="Include" />
+          <e p="MongoDbHelpers.cs" t="Include" />
+          <e p="ObjectState.cs" t="Include" />
+          <e p="PredicateBuilder.cs" t="Include" />
+        </e>
+        <e p="Mongo" t="Include">
+          <e p="Interfaces" t="Include">
+            <e p="IMongoDbContext.cs" t="Include" />
+            <e p="IMongoDbRepository.cs" t="Include" />
+            <e p="IMongoEntity.cs" t="Include" />
+            <e p="IMongoWorker.cs" t="Include" />
+          </e>
+          <e p="MongoCommandResult.cs" t="Include" />
+          <e p="MongoDbContext.cs" t="Include" />
+          <e p="MongoEntity.cs" t="Include" />
+          <e p="MongoRepository.cs" t="Include" />
+          <e p="MongoWorker.cs" t="Include" />
+          <e p="Results.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp1.1" t="Include">
+              <e p="Pikachu.Core.Repository.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Pikachu.Core.Repository.csproj" t="IncludeRecursive" />
+        <e p="PikachuDataService.cs" t="Include" />
+        <e p="Sql" t="Include">
+          <e p="DbContextBase.cs" t="Include" />
+          <e p="EntityBase.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="IDbContext.cs" t="Include" />
+            <e p="IObjectState.cs" t="Include" />
+            <e p="IRepository.cs" t="Include" />
+            <e p="IRepositoryQuery.cs" t="Include" />
+            <e p="IUnitOfWork.cs" t="Include" />
+          </e>
+          <e p="Repository.cs" t="Include" />
+          <e p="RepositoryQuery.cs" t="Include" />
+          <e p="UnitOfWork.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Pikachu.Core.sln" t="IncludeFlat" />
+    </e>
+  </component>
+  <component name="RiderRiderContentModelStore">
+    <excludedPaths />
+  </component>
+</project>

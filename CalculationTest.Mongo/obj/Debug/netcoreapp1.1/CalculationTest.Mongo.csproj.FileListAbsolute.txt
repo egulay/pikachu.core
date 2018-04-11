@@ -1,0 +1,35 @@
+C:\Users\egulay\Desktop\Pikachu.Core\CalculationTest.Mongo\bin\Debug\netcoreapp1.1\CalculationTest.Mongo.deps.json
+C:\Users\egulay\Desktop\Pikachu.Core\CalculationTest.Mongo\bin\Debug\netcoreapp1.1\CalculationTest.Mongo.runtimeconfig.json
+C:\Users\egulay\Desktop\Pikachu.Core\CalculationTest.Mongo\bin\Debug\netcoreapp1.1\CalculationTest.Mongo.runtimeconfig.dev.json
+C:\Users\egulay\Desktop\Pikachu.Core\CalculationTest.Mongo\bin\Debug\netcoreapp1.1\CalculationTest.Mongo.dll
+C:\Users\egulay\Desktop\Pikachu.Core\CalculationTest.Mongo\bin\Debug\netcoreapp1.1\CalculationTest.Mongo.pdb
+C:\Users\egulay\Desktop\Pikachu.Core\CalculationTest.Mongo\bin\Debug\netcoreapp1.1\Pikachu.Core.Repository.dll
+C:\Users\egulay\Desktop\Pikachu.Core\CalculationTest.Mongo\bin\Debug\netcoreapp1.1\Pikachu.Core.Repository.pdb
+C:\Users\egulay\Desktop\Pikachu.Core\CalculationTest.Mongo\obj\Debug\netcoreapp1.1\CalculationTest.Mongo.csprojResolveAssemblyReference.cache
+C:\Users\egulay\Desktop\Pikachu.Core\CalculationTest.Mongo\obj\Debug\netcoreapp1.1\CalculationTest.Mongo.AssemblyInfo.cs
+C:\Users\egulay\Desktop\Pikachu.Core\CalculationTest.Mongo\obj\Debug\netcoreapp1.1\CalculationTest.Mongo.dll
+C:\Users\egulay\Desktop\Pikachu.Core\CalculationTest.Mongo\obj\Debug\netcoreapp1.1\CalculationTest.Mongo.pdb
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\CalculationTest.Mongo\bin\Debug\netcoreapp1.1\CalculationTest.Mongo.deps.json
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\CalculationTest.Mongo\bin\Debug\netcoreapp1.1\CalculationTest.Mongo.runtimeconfig.json
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\CalculationTest.Mongo\bin\Debug\netcoreapp1.1\CalculationTest.Mongo.runtimeconfig.dev.json
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\CalculationTest.Mongo\bin\Debug\netcoreapp1.1\CalculationTest.Mongo.dll
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\CalculationTest.Mongo\bin\Debug\netcoreapp1.1\CalculationTest.Mongo.pdb
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\CalculationTest.Mongo\bin\Debug\netcoreapp1.1\Pikachu.Core.Repository.dll
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\CalculationTest.Mongo\bin\Debug\netcoreapp1.1\Pikachu.Core.Repository.pdb
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\CalculationTest.Mongo\obj\Debug\netcoreapp1.1\CalculationTest.Mongo.csprojResolveAssemblyReference.cache
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\CalculationTest.Mongo\obj\Debug\netcoreapp1.1\CalculationTest.Mongo.AssemblyInfo.cs
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\CalculationTest.Mongo\obj\Debug\netcoreapp1.1\CalculationTest.Mongo.dll
+C:\Users\egulay\Documents\Visual Studio 2017\Projects\Pikachu.Core\CalculationTest.Mongo\obj\Debug\netcoreapp1.1\CalculationTest.Mongo.pdb
+C:\Users\emreg\Documents\Projects\Pikachu.Core\CalculationTest.Mongo\bin\Debug\netcoreapp1.1\CalculationTest.Mongo.deps.json
+C:\Users\emreg\Documents\Projects\Pikachu.Core\CalculationTest.Mongo\bin\Debug\netcoreapp1.1\CalculationTest.Mongo.runtimeconfig.json
+C:\Users\emreg\Documents\Projects\Pikachu.Core\CalculationTest.Mongo\bin\Debug\netcoreapp1.1\CalculationTest.Mongo.runtimeconfig.dev.json
+C:\Users\emreg\Documents\Projects\Pikachu.Core\CalculationTest.Mongo\bin\Debug\netcoreapp1.1\CalculationTest.Mongo.dll
+C:\Users\emreg\Documents\Projects\Pikachu.Core\CalculationTest.Mongo\bin\Debug\netcoreapp1.1\CalculationTest.Mongo.pdb
+C:\Users\emreg\Documents\Projects\Pikachu.Core\CalculationTest.Mongo\bin\Debug\netcoreapp1.1\Pikachu.Core.Repository.dll
+C:\Users\emreg\Documents\Projects\Pikachu.Core\CalculationTest.Mongo\bin\Debug\netcoreapp1.1\Pikachu.Core.Repository.pdb
+C:\Users\emreg\Documents\Projects\Pikachu.Core\CalculationTest.Mongo\obj\Debug\netcoreapp1.1\CalculationTest.Mongo.csprojResolveAssemblyReference.cache
+C:\Users\emreg\Documents\Projects\Pikachu.Core\CalculationTest.Mongo\obj\Debug\netcoreapp1.1\CalculationTest.Mongo.AssemblyInfo.cs
+C:\Users\emreg\Documents\Projects\Pikachu.Core\CalculationTest.Mongo\obj\Debug\netcoreapp1.1\CalculationTest.Mongo.dll
+C:\Users\emreg\Documents\Projects\Pikachu.Core\CalculationTest.Mongo\obj\Debug\netcoreapp1.1\CalculationTest.Mongo.pdb
+C:\Users\emreg\Documents\Projects\Pikachu.Core\CalculationTest.Mongo\obj\Debug\netcoreapp1.1\CalculationTest.Mongo.csproj.CoreCompileInputs.cache
+C:\Users\emreg\Documents\Projects\Pikachu.Core\CalculationTest.Mongo\obj\Debug\netcoreapp1.1\CalculationTest.Mongo.AssemblyInfoInputs.cache

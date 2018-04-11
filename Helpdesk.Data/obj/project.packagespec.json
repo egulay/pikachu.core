@@ -1,0 +1,39 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\emreg\\Documents\\Projects\\Pikachu.Core\\Helpdesk.Data\\Helpdesk.Data.csproj",
+    "projectName": "Helpdesk.Data",
+    "projectPath": "C:\\Users\\emreg\\Documents\\Projects\\Pikachu.Core\\Helpdesk.Data\\Helpdesk.Data.csproj",
+    "outputPath": "C:\\Users\\emreg\\Documents\\Projects\\Pikachu.Core\\Helpdesk.Data\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp1.1"
+    ],
+    "frameworks": {
+      "netcoreapp1.1": {
+        "projectReferences": {
+          "C:\\Users\\emreg\\Documents\\Projects\\Pikachu.Core\\Pikachu.Core.Repository\\Pikachu.Core.Repository.csproj": {
+            "projectPath": "C:\\Users\\emreg\\Documents\\Projects\\Pikachu.Core\\Pikachu.Core.Repository\\Pikachu.Core.Repository.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[1.1.2, )",
+          "autoReferenced": true
+        }
+      }
+    }
+  }
+}

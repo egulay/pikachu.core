@@ -1,0 +1,6 @@
+﻿function() {
+    var values = {
+        factor: this.Factor
+    };
+    emit(this.account_id, values);
+};

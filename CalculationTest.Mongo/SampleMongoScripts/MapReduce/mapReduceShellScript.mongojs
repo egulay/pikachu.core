@@ -1,0 +1,63 @@
+﻿var accountsMapFunction = function() {
+    var values = {
+        accountName: this.Name,
+        companyName: this.CompanyName,
+        accountValue: this.Value
+    };
+    emit(this._id, values);
+};
+
+var factorsMapFunction = function() {
+    var values = {
+        factor: this.Factor
+    };
+    emit(this.account_id, values);
+};
+
+var reduceFunction = function(k, values) {
+    var result = {};
+    values.forEach(function(value) {
+        var field;
+        for (field in value) {
+            if (value.hasOwnProperty(field)) {
+                result[field] = value[field];
+            }
+        }
+    });
+    return result;
+};
+
+var finalizeFunction = function(k, result) {
+    result.total = result.accountValue * result.factor;
+    return result;
+};
+
+db.accounts.mapReduce(accountsMapFunction, reduceFunction, {
+    out: {
+        reduce: "calculationresults"
+    },
+    finalize: finalizeFunction
+});
+db.accountfactors.mapReduce(factorsMapFunction, reduceFunction, {
+    out: {
+        reduce: "calculationresults"
+    },
+    finalize: finalizeFunction
+});
+
+db.calculationresults.aggregate([{
+    $unwind: '$value'
+}, {
+    $match: {
+        "value.companyName": {
+            $eq: "C1"
+        }
+    }
+}, {
+    $group: {
+        _id: "$value.accountName",
+        grandTotal: {
+            $sum: "$value.total"
+        }
+    }
+}]);
